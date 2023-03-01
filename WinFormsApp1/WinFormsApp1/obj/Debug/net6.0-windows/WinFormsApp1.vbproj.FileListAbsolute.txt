@@ -1,0 +1,17 @@
+D:\Goline Global\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Goline Global\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Goline Global\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Goline Global\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Goline Global\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\Goline Global\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Goline Global\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
